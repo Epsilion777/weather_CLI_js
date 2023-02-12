@@ -15,9 +15,9 @@
 
 2. Установить токен и город для получения погоды `$ node index.js -t {token} -c {city}` (файл конфигурации weather-settgins.json будет храниться в домашней директроии)
 
-`$ node index.js -h`
-
 ### Меню HELP
+
+`$ node index.js -h`
 
 ### Пример для Москвы
 
